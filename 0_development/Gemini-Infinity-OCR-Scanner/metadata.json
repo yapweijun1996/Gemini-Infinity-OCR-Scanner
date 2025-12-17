@@ -1,0 +1,7 @@
+{
+  "name": "Gemini OCR Agent v1.1.2",
+  "description": "An intelligent agentic scanner that auto-selects the sharpest frames from your camera and uses Gemini multimodal capabilities to extract text.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
