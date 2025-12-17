@@ -1,9 +1,5 @@
 # Gemini Infinity OCR Scanner
 
-<div align="center">
-  <img width="1200" height="475" alt="Gemini Infinity Scanner Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 ## Overview
 
 **Gemini Infinity Scanner** is a continuous, agentic OCR (Optical Character Recognition) application that leverages Google's Gemini AI to extract text from live camera feeds. The app automatically captures the sharpest frames, processes them in batches, and loops indefinitely for real-time text extraction.
